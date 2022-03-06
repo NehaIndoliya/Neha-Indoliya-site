@@ -1,3 +1,3 @@
 #student Portfolio
 
-This is personal portfolio in making.
+This is my personal portfolio in making.
